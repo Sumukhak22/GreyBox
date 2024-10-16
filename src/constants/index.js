@@ -251,7 +251,7 @@ export const benefits = [
   {
     id: "0",
     title: "Web Application Pentesting",
-    text: "Identify and fix any security gaps before they can be exploited, thus enhancing the overall security of the web application.",
+    text: "Detect and address security gaps before they can be exploited, strengthening the overall protection of your web application.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -260,7 +260,7 @@ export const benefits = [
   {
     id: "1",
     title: "Mobile Application Pentesting",
-    text: "Test the unique aspects of mobile platforms, such as the use of mobile device sensors, data storage, and network communication protocols.",
+    text: "Evaluate the distinct features of mobile platforms, including mobile device sensors, data storage, and network communication protocols, to ensure comprehensive security.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
@@ -268,7 +268,7 @@ export const benefits = [
   {
     id: "2",
     title: "API Pentesting",
-    text: "Examine APIs for vulnerabilities such as API Mass Assignment, broken authentication, SQL Injection, input validation flaws, etc.",
+    text: "Assess APIs for vulnerabilities like API Mass Assignment, broken authentication, SQL Injection, input validation flaws, and more to ensure robust security.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -277,7 +277,7 @@ export const benefits = [
   {
     id: "3",
     title: "Cloud Pentesting",
-    text: "We evaluate the security of a client's infrastructure deployed in the cloud environment. The main focus is to identify weaknesses in the infrastructure, web application firewall, and network configuration files.",
+    text: "We assess the security of a client's cloud-based infrastructure, concentrating on identifying vulnerabilities in the infrastructure itself, web application firewalls, and network configuration files.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -286,7 +286,7 @@ export const benefits = [
   {
     id: "4",
     title: "Smart Contract Audit",
-    text: "Prevent financial losses resulting from contract bugs or security breaches. Fix bugs before the launch and attract investors by providing a robust security posture.",
+    text: "Mitigate financial losses caused by contract errors or security breaches. Address issues prior to launch and enhance your appeal to investors by demonstrating a strong security framework.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -295,7 +295,7 @@ export const benefits = [
   {
     id: "5",
     title: "Monitoring and Protection",
-    text: "Constant protection of your web resource or information system. Forget about DDoS attacks and suspicious activity on a website.",
+    text: "Continuous protection for your web resources or information systems. Eliminate concerns about DDoS attacks and suspicious activities on your website.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,

@@ -25,9 +25,9 @@ const WhoWeAre = () => {
             </div>
 
             <div className="relative z-1 max-w-[17rem] ml-auto">
-              <h2 className="h4 mb-4">Tailored approach for each project, with dedicated team members.</h2>
+              <h2 className="h4 mb-4">A customized strategy for every project, supported by a dedicated team.</h2>
               <p className="body-2 mb-[3rem] text-n-3">
-              Tailored solutions for each project, backed by a committed team, ensure precise alignment with specific needs and objectives, maximizing effectiveness and efficiency</p>
+              Custom solutions for every project, supported by a dedicated team, ensure alignment with unique goals and requirements, optimizing both effectiveness and efficiency.</p>
             </div>
           </div>
 
@@ -44,19 +44,17 @@ const WhoWeAre = () => {
               </div>
 
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
-                <h4 className="h4 mb-4">Ability to conduct in any format: black, grey, white box.</h4>
+                <h4 className="h4 mb-4">Capability to perform in any format: black box, grey box, or white box testing.</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                Versatile testing methods: black, grey, white box. Our expert team ensures thorough security assessments for all projects
-                </p>
+                Flexible testing approaches: black box, grey box, and white box. Our expert team delivers comprehensive security assessments for every project.</p>
               </div>
             </div>
 
             <div className="p-4 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem]">
               <div className="py-12 px-4 xl:px-8">
-                <h4 className="h4 mb-4">Fast response to vulnerabilities</h4>
+                <h4 className="h4 mb-4">Rapid response to vulnerabilities.</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                We immediately report critical/high-level vulnerabilities before completion of testing and offer consultations for vulnerability remediation
-                </p>
+                We promptly report critical and high-level vulnerabilities during the testing process and provide consultations for effective remediation.</p>
               </div>
 
               <div className="relative h-[20rem] bg-n-8 rounded-xl overflow-hidden md:h-[25rem]">

@@ -51,8 +51,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Discover weaknesses in your web resource or network with simulated attacks. Safeguard data integrity and workflow continuity through expert ethical hacking, preventing breaches and enhancing security.
-          </p>
+          Identify vulnerabilities in your network or web resources through simulated attacks. Strengthen data protection and ensure seamless operations with expert ethical hacking, preventing breaches and improving security.</p>
           <Button onClick={openPopup} white>
             Get started
           </Button>
