@@ -11,7 +11,7 @@ const Footer = () => {
         </p>
 
         <ul className="flex gap-5 flex-wrap">
-          {socials.map((item) => (
+          {/* {socials.map((item) => (
             <a
               key={item.id}
               href={item.url}
@@ -20,7 +20,7 @@ const Footer = () => {
             >
               <img src={item.iconUrl} width={16} height={16} alt={item.title} />
             </a>
-          ))}
+          ))} */}
         </ul>
       </div>
     </Section>

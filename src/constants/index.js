@@ -75,8 +75,8 @@ export const navigation = [
   },
   {
     id: "3",
-    title: "Blogs",
-    url: "#blogs",
+    title: "Products",
+    url: "#Products",
   },
 ];
 

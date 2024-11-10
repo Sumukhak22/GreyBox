@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Clients from "./components/Clients";
-import Blogs from './components/Blogs';
+// import Blogs from './components/Blogs';
 import WhoWeAre from "./components/WhoWeAre";
 
 import WhatWeOffer from "./components/WhatWeOffer";
@@ -20,7 +20,7 @@ const App = () => {
         <Collaboration />
         <WhoWeAre />
         <Clients />
-        <Blogs />
+        {/* <Blogs /> */}
         {/* <Pricing /> */}
         {/* <Roadmap /> */}
         <Footer />
