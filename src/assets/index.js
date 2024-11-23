@@ -33,7 +33,7 @@ import Google from "./collaboration/Google.png";
 import Apple from "./collaboration/Apple.png";
 import Ather from "./collaboration/Ather.png";
 import axio from "./collaboration/axio.jpg";
-import BasF from "./collaboration/BasF.png";
+import basf from "./collaboration/basf.png";
 import coindcx from "./collaboration/coindcx.png";
 import Flipkart from "./collaboration/Flipkart.png";
 import Giva from "./collaboration/Giva.png";
@@ -51,12 +51,19 @@ import kindlife from "./collaboration/kindlife.png";
 import lendingkart from "./collaboration/lendingkart.png";
 import nciipc from "./collaboration/nciipc.png";
 import pankhuri from "./collaboration/pankhuri.png";
-import polygon from "./collaboration/polygon.png";
+import Polygon from "./collaboration/Polygon.png";
 import scapic from "./collaboration/scapic.png";
 import shadowfax from "./collaboration/shadowfax.png";
 import wework from "./collaboration/wework.png";
 import woodenstreet from "./collaboration/woodenstreet.png";
 import xpressbees from "./collaboration/xpressbees.png";
+import hbits from "./collaboration/hbits.png";
+import bluetokai from "./collaboration/bluetokai.png";
+import siply from "./collaboration/siply.png";
+import ayekart from "./collaboration/ayekart.png";
+import incred from "./collaboration/incred.png";
+
+
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -101,6 +108,10 @@ export {
   greybox,
   check,
   check2,
+  ayekart,
+  siply,
+  hbits,
+  bluetokai,
   loading1,
   brainwaveSymbol,
   brainwaveWhiteSymbol,
@@ -160,7 +171,8 @@ export {
   Apple,
   Ather,
   axio,
-  BasF,
+  basf,
+  incred,
   coindcx,
   Flipkart,
   Giva,
@@ -178,7 +190,7 @@ export {
   lendingkart,
   nciipc,
   pankhuri,
-  polygon,
+  Polygon,
   scapic,
   shadowfax,
   wework,

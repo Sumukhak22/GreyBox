@@ -31,7 +31,6 @@ import {
   Apple,
   Ather,
   axio,
-  BasF,
   coindcx,
   Flipkart,
   Giva,
@@ -49,12 +48,18 @@ import {
   lendingkart,
   nciipc,
   pankhuri,
-  polygon,
+  Polygon,
   scapic,
   shadowfax,
   wework,
   woodenstreet,
   xpressbees,
+  siply,
+  hbits,
+  bluetokai,
+  ayekart,
+  incred,
+  basf,
 } from "../assets";
 
 export const navigation = [
@@ -77,6 +82,11 @@ export const navigation = [
     id: "3",
     title: "Products",
     url: "#Products",
+  },
+  {
+    id: "4",
+    title: "Shop",
+    url: "https://greybox.in",
   },
 ];
 
@@ -216,14 +226,13 @@ export const collabApps = [
 ];
 
 export const clientLogos = [
-  { src: Google, alt: "Google" },
-  { src: Apple, alt: "Apple" },
-  { src: Microsoft, alt: "Microsoft" },
+  { src: Ather, alt: "Ather" },
+  { src: incred, alt: "incred" },
   { src: Flipkart, alt: "Flipkart" },
   { src: Nokia, alt: "Nokia" },
   { src: Ather, alt: "Ather" },
   { src: axio, alt: "axio" },
-  { src: BasF, alt: "BasF" },
+  { src: basf, alt: "basf" },
   { src: Giva, alt: "Giva" },
   { src: apollo, alt: "apollo" },
   { src: coindcx, alt: "coindcx" },
@@ -238,12 +247,16 @@ export const clientLogos = [
   { src: kindlife, alt: "kindlife" },
   { src: lendingkart, alt: "lendingkart" },
   { src: pankhuri, alt: "pankhuri" },
-  { src: polygon, alt: "polygon" },
+  { src: Polygon, alt: "Polygon" },
   { src: scapic, alt: "scapic" },
   { src: shadowfax, alt: "shadowfax" },
   { src: wework, alt: "wework" },
   { src: woodenstreet, alt: "woodenstreet" },
   { src: xpressbees, alt: "xpressbees" },
+  { src: hbits, alt: "hbits" },
+  { src: siply, alt: "wework" },
+  { src: ayekart, alt: "ayekart" },
+  { src: bluetokai, alt: "bluetokai" },
 ];
 
 
