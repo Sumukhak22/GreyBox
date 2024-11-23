@@ -62,6 +62,8 @@ import {
   incred,
   basf,
   Ather1,
+  Bitcoin,
+  ConsensysCircle,
 } from "../assets";
 
 export const navigation = [
@@ -196,15 +198,15 @@ export const collabApps = [
   },
   {
     id: "3",
-    title: "Flipkart",
-    icon: Flipkart,
+    title: "Bitcoin",
+    icon: Bitcoin,
     width: 45,
     height: 40,
   },
   {
     id: "4",
-    title: "axio",
-    icon: axio,
+    title: "ConsensysCircle",
+    icon: ConsensysCircle,
     width: 45,
     height: 40,
   },

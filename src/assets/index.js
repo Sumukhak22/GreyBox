@@ -64,7 +64,8 @@ import ayekart from "./collaboration/ayekart.png";
 import incred from "./collaboration/incred.png";
 import Ather1 from "./collaboration/Ather1.png";
 import copestudio from "./collaboration/copestudio.png";
-
+import Bitcoin from "./collaboration/Bitcoin.png";
+import ConsensysCircle from "./collaboration/Consensys-circle.png"
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -121,8 +122,10 @@ export {
   gradient,
   smallSphere,
   grid,
+  ConsensysCircle,
   yourlogo,
   homeSmile,
+  Flipkart,
   file02,
   searchMd,
   plusSquare,
@@ -177,7 +180,7 @@ export {
   basf,
   incred,
   coindcx,
-  Flipkart,
+  Bitcoin,
   Giva,
   McDonalds,
   Microsoft,
