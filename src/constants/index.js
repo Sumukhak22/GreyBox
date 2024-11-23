@@ -58,8 +58,10 @@ import {
   hbits,
   bluetokai,
   ayekart,
+  copestudio,
   incred,
   basf,
+  Ather1,
 } from "../assets";
 
 export const navigation = [
@@ -164,6 +166,10 @@ export const collabContent = [
     id: "2",
     title: "White box testing",
   },
+  {
+    id:"3",
+    title: "Security Research",
+  }
 ];
 
 export const collabApps = [
@@ -204,8 +210,8 @@ export const collabApps = [
   },
   {
     id: "5",
-    title: "McDonalds",
-    icon: McDonalds,
+    title: "copestudio",
+    icon: copestudio,
     width: 45,
     height: 40,
   },
@@ -218,8 +224,8 @@ export const collabApps = [
   },
   {
     id: "7",
-    title: "Ather",
-    icon: Ather,
+    title: "Ather1",
+    icon: Ather1,
     width: 45,
     height: 40,
   },
