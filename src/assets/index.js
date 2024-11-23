@@ -37,7 +37,7 @@ import basf from "./collaboration/basf.png";
 import coindcx from "./collaboration/coindcx.png";
 import Flipkart from "./collaboration/Flipkart.png";
 import Giva from "./collaboration/Giva.png";
-import McDonalds from "./collaboration/McDonalds.png";
+// import McDonalds from "./collaboration/McDonalds.png";
 import Microsoft from "./collaboration/Microsoft.png";
 import Nokia from "./collaboration/Nokia.png";
 import apollo from "./collaboration/apollo.png";
@@ -65,7 +65,15 @@ import incred from "./collaboration/incred.png";
 import Ather1 from "./collaboration/Ather1.png";
 import copestudio from "./collaboration/copestudio.png";
 import Bitcoin from "./collaboration/Bitcoin.png";
-import ConsensysCircle from "./collaboration/Consensys-circle.png"
+import ConsensysCircle from "./collaboration/Consensys-circle.png";
+import amplo from "./collaboration/amplo.png";
+import awfis from "./collaboration/awfis.png";
+import bharathnext from "./collaboration/bharathnext.png";
+import iden from "./collaboration/iden.png";
+import realadvisor from "./collaboration/realadvisor.png";
+import zintlr from "./collaboration/zintlr.png";
+import firstcry from "./collaboration/firstcry.png";
+import d from "./collaboration/d.png";
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -182,7 +190,7 @@ export {
   coindcx,
   Bitcoin,
   Giva,
-  McDonalds,
+  // McDonalds,
   Microsoft,
   Nokia,
   apollo,
@@ -202,4 +210,12 @@ export {
   wework,
   woodenstreet,
   xpressbees,
+  amplo,
+  awfis,
+  bharathnext,
+  iden,
+  realadvisor,
+  zintlr,
+  firstcry,
+  d,
 };

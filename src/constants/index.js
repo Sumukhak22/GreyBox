@@ -34,7 +34,7 @@ import {
   coindcx,
   Flipkart,
   Giva,
-  McDonalds,
+  // McDonalds,
   Microsoft,
   Nokia,
   apollo,
@@ -64,6 +64,14 @@ import {
   Ather1,
   Bitcoin,
   ConsensysCircle,
+  amplo,
+  awfis,
+  bharathnext,
+  iden,
+  realadvisor,
+  zintlr,
+  firstcry,
+  d,
 } from "../assets";
 
 export const navigation = [
@@ -244,7 +252,7 @@ export const clientLogos = [
   { src: Giva, alt: "Giva" },
   { src: apollo, alt: "apollo" },
   { src: coindcx, alt: "coindcx" },
-  { src: McDonalds, alt: "McDonalds" },
+  // { src: McDonalds, alt: "McDonalds" },
   { src: nciipc, alt: "nciipc" },
   { src: awign, alt: "awign" },
   { src: bluestone, alt: "bluestone" },
@@ -265,6 +273,14 @@ export const clientLogos = [
   { src: siply, alt: "wework" },
   { src: ayekart, alt: "ayekart" },
   { src: bluetokai, alt: "bluetokai" },
+  { src: amplo, alt: "amplo" },
+  { src: d, alt: "d" },
+  { src: firstcry, alt: "firstcry" },
+  { src: awfis, alt: "awfis" },
+  { src: iden, alt: "iden" },
+  { src: bharathnext, alt: "bharathnext" },
+  { src: realadvisor, alt: "realadvisor" },
+  { src: zintlr, alt: "zintlr" },
 ];
 
 
