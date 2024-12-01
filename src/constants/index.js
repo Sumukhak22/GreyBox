@@ -71,7 +71,7 @@ import {
   realadvisor,
   zintlr,
   firstcry,
-  d,
+  // d,
 } from "../assets";
 
 export const navigation = [
@@ -274,7 +274,7 @@ export const clientLogos = [
   { src: ayekart, alt: "ayekart" },
   { src: bluetokai, alt: "bluetokai" },
   { src: amplo, alt: "amplo" },
-  { src: d, alt: "d" },
+  // { src: d, alt: "d" },
   { src: firstcry, alt: "firstcry" },
   { src: awfis, alt: "awfis" },
   { src: iden, alt: "iden" },

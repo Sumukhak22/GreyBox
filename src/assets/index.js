@@ -73,7 +73,7 @@ import iden from "./collaboration/iden.png";
 import realadvisor from "./collaboration/realadvisor.png";
 import zintlr from "./collaboration/zintlr.png";
 import firstcry from "./collaboration/firstcry.png";
-import d from "./collaboration/d.png";
+// import d from "./collaboration/d.png";
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -217,5 +217,5 @@ export {
   realadvisor,
   zintlr,
   firstcry,
-  d,
+  // d,
 };
